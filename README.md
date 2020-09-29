@@ -1,4 +1,4 @@
 # steamlit_dashboard
 
-# prerequisite:
+# prerequisites:
 you need to install streamlit in your anaconda environnement
